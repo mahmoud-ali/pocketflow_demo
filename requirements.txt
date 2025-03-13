@@ -1,1 +1,6 @@
 pocketflow>=0.0.1
+openai>=1.0.0
+pyyaml>=6.0.0
+requests
+bs4
+youtube_transcript_api
